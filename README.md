@@ -33,8 +33,6 @@ Here are some highlights from my repositories — a snapshot of what I enjoy bui
 
 ## ✉️ How to reach me
 - LinkedIn: https://www.linkedin.com/in/lorenasferreira/
-- Instagram: [@lorenayy_](https://www.instagram.com/lorenayy_/)
-
 ---
 
 Thanks for visiting my profile — I’m excited to keep learning and collaborate on meaningful web projects. Feel free to say hi! 👋
