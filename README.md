@@ -17,7 +17,7 @@ Currently studying web development with FemCoders and transitioning into tech. P
 ## 🚀 Projects (most active)
 Here are some highlights from my repositories — a snapshot of what I enjoy building. Replace the links with the exact repo names if you prefer specific projects shown.
 
-- 🧾 Portfolio Website — [portfolio](https://github.com/lorenasferreira/portfolio)  
+- 🧾 Portfolio Website — [portfolio](https://github.com/lorenasferreira/lorkut))  
   A clean, responsive personal site showcasing projects and contact info. Built with HTML, CSS and JavaScript.
 
 ---
