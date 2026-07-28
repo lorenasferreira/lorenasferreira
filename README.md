@@ -1,34 +1,36 @@
-<h1 align="center">
-Hi, I'm Lorena Ferreira 👋
-</h1>
+<div align="center">
 
-<p align="center">
+# Hi, I'm Lorena Ferreira 👋
 
-Full-Stack Developer based in Barcelona 🇪🇸
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+modern+web+applications;Turning+ideas+into+real+products." />
 
-Building modern web applications with React, Java, Spring Boot and cloud technologies.
+### Brazilian Full-Stack Developer based in Barcelona 🇪🇸
 
-</p>
+I build modern, responsive and scalable web applications with a passion for creating meaningful digital experiences.
 
-<p align="center">
+[🌐 Portfolio](https://lorenaferreira.dev) •
+[💼 LinkedIn](https://linkedin.com/in/lorenasferreira/) •
+[📧 Let's connect](https://linkedin.com/in/lorenasferreira/)
 
-<a href="https://lorenaferreira.dev">🌐 Portfolio</a> • <a href="https://www.linkedin.com/in/lorenasferreira/">LinkedIn</a>
-
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+# About Me
 
-I'm a Brazilian Full-Stack Developer based in Barcelona, Spain, passionate about creating modern, responsive and scalable web applications.
+My journey into software development didn't start with code—it started with curiosity.
 
-After several years working in international environments, I transitioned into software development and now build complete web solutions—from intuitive frontend interfaces to backend APIs and cloud deployment.
+After years working in international and multicultural environments, I discovered that what truly motivated me was solving problems, building things, and continuously learning. That curiosity eventually led me to web development, where I found the perfect combination of creativity, logic, and impact.
 
-I enjoy transforming ideas into real products while continuously learning new technologies and improving my development skills.
+Today I build full-stack applications using React, Java, Spring Boot, PostgreSQL and cloud technologies, creating projects from the first idea all the way to production.
+
+What excites me most is creating software that people actually use. Whether it's a professional portfolio for a client, an educational platform inspired by my own experiences, or a complete web application, I enjoy turning ideas into products that are useful, intuitive and thoughtfully designed.
+
+I'm naturally curious, detail-oriented, and always looking for better ways to build software. Every project is an opportunity to learn something new while writing cleaner code than the last one.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Frontend
 
@@ -42,11 +44,13 @@ I enjoy transforming ideas into real products while continuously learning new te
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### Database & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
@@ -60,61 +64,64 @@ I enjoy transforming ideas into real products while continuously learning new te
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🌐 Lorena Ferreira Portfolio
+## 🌐 Lorena Ferreira Portfolio
 
-My personal developer portfolio showcasing projects, experience, and technical skills.
+My personal full-stack portfolio showcasing projects, professional experience and technical skills.
 
-**Tech:** React · Spring Boot · PostgreSQL · Railway · Cloudinary · Vercel
+**Stack**
+
+React • Spring Boot • PostgreSQL • Railway • Cloudinary • Vercel
 
 🔗 https://lorenaferreira.dev
 
 ---
 
-### 📸 Marina Rodrii Photo
+## 📸 Marina Rodrii Photo
 
-Professional photography portfolio built for a real client with a modern, responsive interface.
+A modern photography portfolio developed for a professional photographer, focused on elegant design, responsiveness and performance.
 
-**Tech:** React · Vite · JavaScript · Vercel
+**Stack**
+
+React • Vite • JavaScript • Vercel
 
 🔗 https://marinarodriiphoto.com
 
 ---
 
-### 🌍 Au Pair na Espanha
+## 🌍 Au Pair na Espanha
 
-Educational platform helping future au pairs understand the program in Spain through practical guides and free resources.
+An educational platform helping future au pairs understand the program in Spain through practical guides, resources and real-world experience.
 
-**Tech:** React · Vite · JavaScript · Vercel
+**Stack**
+
+React • Vite • JavaScript • Vercel
 
 🔗 https://aupairnaespanha.com.br
 
 ---
 
-## 🌱 Currently Learning
+# ✨ What You'll Find Here
 
-* Advanced React patterns
-* Spring Security
-* Docker
-* Testing with JUnit
-* CI/CD workflows
-* Software Architecture
-* TypeScript
+My GitHub is a collection of projects built with a focus on real-world applications and continuous learning.
 
----
+Here you'll find:
 
-## 🎯 Current Goals
-
-* Build production-ready full-stack applications
-* Expand my portfolio with real-world projects
-* Continue learning cloud technologies
-* Contribute to meaningful products
-* Grow as a Full-Stack Developer
+* 🌐 Production-ready websites
+* ⚛️ Modern React applications
+* ☕ Java & Spring Boot REST APIs
+* 🗄️ Database integration with PostgreSQL & MySQL
+* ☁️ Cloud deployments with Vercel and Railway
+* 📱 Responsive and accessible interfaces
+* 💼 Client work and personal projects
+* 🚀 Projects that continue to evolve over time
 
 ---
 
-## 📫 Connect with Me
+# 🤝 Let's Connect
+
+If you're interested in collaborating, discussing technology, or simply saying hello, feel free to reach out!
 
 🌐 Portfolio
 
@@ -124,12 +131,16 @@ https://lorenaferreira.dev
 
 https://linkedin.com/in/lorenasferreira/
 
-📧 Feel free to connect or reach out if you'd like to collaborate on a project.
+GitHub
+
+https://github.com/lorenasferreira
 
 ---
 
-<p align="center">
+<div align="center">
 
-Thanks for visiting my profile! 🚀
+### Thanks for stopping by! 🚀
 
-</p>
+*"Great software is built one thoughtful decision at a time."*
+
+</div>
