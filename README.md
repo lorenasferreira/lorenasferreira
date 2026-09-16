@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+modern+web+applications;Turning+ideas+into+real+products." />
 
-### Brazilian Full-Stack Developer based in Barcelona 🇪🇸
+### Brazilian Full-Stack Developer based in Zurich 🇪🇸
 
 I build modern, responsive and scalable web applications with a passion for creating meaningful digital experiences.
 
@@ -75,30 +75,6 @@ My personal full-stack portfolio showcasing projects, professional experience an
 React • Spring Boot • PostgreSQL • Railway • Cloudinary • Vercel
 
 🔗 https://lorenaferreira.dev
-
----
-
-## 📸 Marina Rodrii Photo
-
-A modern photography portfolio developed for a professional photographer, focused on elegant design, responsiveness and performance.
-
-**Stack**
-
-React • Vite • JavaScript • Vercel
-
-🔗 https://marinarodriiphoto.com
-
----
-
-## 🌍 Au Pair na Espanha
-
-An educational platform helping future au pairs understand the program in Spain through practical guides, resources and real-world experience.
-
-**Stack**
-
-React • Vite • JavaScript • Vercel
-
-🔗 https://aupairnaespanha.com.br
 
 ---
 
