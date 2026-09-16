@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+modern+web+applications;Turning+ideas+into+real+products." />
 
-### Brazilian Full-Stack Developer based in Zurich 🇪🇸
+### Spanish Full-Stack Developer based in Zurich 🇪🇸
 
 I build modern, responsive and scalable web applications with a passion for creating meaningful digital experiences.
 
